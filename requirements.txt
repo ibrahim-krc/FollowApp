@@ -1,0 +1,5 @@
+instagrapi==1.18.5
+colorama==0.4.6
+unidecode==1.3.6
+python-dotenv
+pillow
