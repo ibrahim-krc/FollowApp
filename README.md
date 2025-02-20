@@ -5,7 +5,7 @@
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/yourusername/FollowApp.git
+git clone https://github.com/ibrahim-krc/FollowApp
 cd FollowApp
 ```
 
